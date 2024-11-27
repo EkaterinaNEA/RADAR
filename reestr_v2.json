@@ -161,13 +161,6 @@
         "description": "обеспечивает легкий тестовый прогон для тестов TestComplete. Решение позволяет выполнять тесты TestComplete без необходимости устанавливать TestComplete на компьютер. TestExecute может использоваться на удаленных компьютерах, VM и облачных компьютерах."
     },
     {
-        "name": ".NET 6",
-        "ring": "Assess",
-        "quadrant": "Languages & Frameworks",
-        "isNew": "TRUE",
-        "description": "Модульная платформа для разработки программного обеспечения с открытым исходным кодом. Совместима с операционными системами Windows, Linux и macOS. Поддерживает следующие языки программирования: C#, F#, Visual Basic. .NET is a free, cross-platform, open"
-    },
-    {
         "name": ".NET 8 LTS",
         "ring": "Assess",
         "quadrant": "Languages & Frameworks",
